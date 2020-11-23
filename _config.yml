@@ -1,3 +1,11 @@
 theme: jekyll-theme-cayman
 title: ghpages test site
 description: figuring out how github pages work
+url: http://harshp.com/ghpages-test/
+
+author:
+  name: harsh
+  bio: i'm me
+  links:
+    - label: website
+      url: https://harshp.com/
